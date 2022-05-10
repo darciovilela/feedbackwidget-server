@@ -1,4 +1,4 @@
-# Feedback Widget
+# Feedback Widget Server
 
 Used with feedbackwidget-web. Feedback is storaged in Prisma DB and an email is sent to admin user with the feedback.
 
