@@ -14,3 +14,4 @@ Used with feedbackwidget-web. Feedback is storaged in Prisma DB and an email is 
 - git clone
 - cd feedbackwidget-server
 - run npm run dev
+- to see Prisma run npx prisma studio
